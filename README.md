@@ -53,7 +53,7 @@ CSS & JS
 ## Author
 
 - Website - [Abdirahim Ali](https://www.abdirahimali.com)
-- Frontend Mentor - [@asad102](https://www.frontendmentor.io/profile/abdirahim88)
+- Frontend Mentor - [@abdirahim88](https://www.frontendmentor.io/profile/abdirahim88)
 - Twitter - [@abdirahimali](https://x.com/abdirahimali)
 
 ## Acknowledgments
